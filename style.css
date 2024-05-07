@@ -19,6 +19,10 @@ html {
     background-repeat: repeat-x;
 }
 
+.footbal-img {
+    content: url(Image/FOOTBALL.png);
+}
+
 .btn {
     background-image: url("./Image/LowBtn.png");
     background-repeat: no-repeat;
@@ -217,6 +221,10 @@ input:focus {
     }
 
     .menu {}
+
+    .footbal-img {
+        content: url(Image/FOOTBALL2.png);
+    }
 
     .menu-box {
         background-color: rgba(252, 243, 243, 0.93);
